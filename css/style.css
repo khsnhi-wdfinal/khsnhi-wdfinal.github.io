@@ -1,0 +1,29 @@
+
+.counternumber{
+	display: flex;
+	justify-content: center;
+	
+}
+
+
+.col {
+  padding: 20px 50px;
+	z-index: 1;
+}
+.col i{
+  font-size: 2em;
+	color: burlywood;
+}
+.col .counter-number {
+  font-size: 4em;
+  font-weight: bold;
+  color: white;
+	font-family: 'Yomogi', cursive;
+}
+.col .counter-title {
+  color: burlywood;
+}
+.col .counter-title strong {
+  display: block;
+  font-size: 1.2rem;
+}
